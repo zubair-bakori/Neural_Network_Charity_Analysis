@@ -14,5 +14,8 @@
     - I used 30 epochs
 
 ## Summary
+<img width="566" alt="nn_summary_1" src="https://user-images.githubusercontent.com/79673198/125219872-acacae80-e293-11eb-82ae-6bde8736251c.png">
+<img width="505" alt="nn_summary_2" src="https://user-images.githubusercontent.com/79673198/125219874-ad454500-e293-11eb-98ed-1724f7372590.png">
+
      
 
